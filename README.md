@@ -1,0 +1,2 @@
+# WFPlugins
+Loader for WFPlugins.
