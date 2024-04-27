@@ -1,5 +1,3 @@
----
-
 # WFPlugins
 **AUTHOR: Wimfish1**
 
@@ -18,5 +16,3 @@
 - Access public license keys on [this page](https://github.com/Wimfish1/WFPlugins/wiki).
 
 - To request access to private license keys, either purchase the plugins [here](https://github.com/Wimfish1/WFPlugins/wiki/Buy) or DM Wimfish1 on Discord with reasons why you should be granted access.
-
----
