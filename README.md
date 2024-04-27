@@ -1,16 +1,22 @@
+---
+
 # WFPlugins
-# AUTHOR: Wimfish1
+**AUTHOR: Wimfish1**
 
-## How to install.
+## How to Install
 
-- Navigate to <a href="https://github.com/Wimfish1/WFPlugins/releases/latest">Releases</a> tab.
+1. Visit the [Releases](https://github.com/Wimfish1/WFPlugins/releases/latest) tab.
+   
+2. Download the latest .jar file. Updates are infrequent, usually incorporating enough license keys for an extra 10 plugins each time. If an update occurs, it will be automatic.
 
-- Download the latest .jar file. (Updated not very often as I normally add enough license keys to span for an extra 10 plugins each update)
+3. Place the .jar file into your server's plugins folder and restart. This will create a folder named WFPluginsLoader.
 
-- Add the .jar file to your plugins folder in your server and restart. This will generate a folder called WFPluginsLoader
-
-- Add your license keys into the configuration file generated inside that folder. Eg ```PluginName=LicenseKey```. 
+4. Add your license keys to the configuration file inside the WFPluginsLoader folder. Use this format: `PluginName=LicenseKey`.
 
 ## License Keys
 
-- Public license keys can be found in [this page](https://github.com/Wimfish1/WFPlugins/wiki)
+- Access public license keys on [this page](https://github.com/Wimfish1/WFPlugins/wiki).
+
+- To request access to private license keys, either purchase the plugins [here](https://github.com/Wimfish1/WFPlugins/wiki/Buy) or DM Wimfish1 on Discord with reasons why you should be granted access.
+
+---
