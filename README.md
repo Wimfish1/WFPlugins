@@ -13,4 +13,4 @@
 
 ## License Keys
 
-- Public license keys can be found in <a href="https://github.com/Wimfish1/WFPlugins/wiki>this page</a>.
+- Public license keys can be found in [this page](https://github.com/Wimfish1/WFPlugins/wiki)
